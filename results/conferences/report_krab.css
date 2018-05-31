@@ -1,0 +1,113 @@
+body {
+  font-family: "Helvetica", serif;
+  font-size: 9pt;
+  color: #444;
+}
+/* In word all paragraphs have zero margins unless explicitly specified in a style */
+p, h1, h2, h3, h4, h5, h6, div {
+  margin: 0;
+  padding: 0;
+}
+/* In word headings only have bold font if explicitly specified */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+}
+/* Setting padding-left to zero breaks rendering of lists, so we only set the other values to zero and leave padding-left for the user-agent */
+ul, ol {
+  margin: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-right: 0;
+}
+/* The word hyperlink styling will set text-decoration to underline if needed */
+a {
+  text-decoration: none;
+}
+sup.noteref a {
+  text-decoration: none;
+}
+h1.notes-header {
+  page-break-before: always;
+}
+dl.footnote dt {
+  font-size: large;
+}
+dl.footnote dt a {
+  text-decoration: none;
+}
+dl.footnote {
+  page-break-after: always;
+}
+dl.footnote:last-of-type {
+  page-break-after: avoid;
+}
+span.tab {
+  white-space: pre;
+}
+p.index-entry {
+  text-indent: 0;
+}
+p.index-entry a:visited {
+  color: blue;
+}
+p.index-entry a:hover {
+  color: red;
+}
+.block_1 {
+  padding-top: 0;
+  margin-top: 4.8pt;
+  padding-bottom: 0;
+}
+.block_2 {
+  margin-top: 4.8pt;
+  padding-bottom: 0;
+  margin-bottom: 9.6pt;
+}
+.block_3 {
+  padding-top: 0;
+  margin-top: 4.8pt;
+  padding-bottom: 0;
+  margin-bottom: 9.6pt;
+}
+.block_4 {
+  padding-top: 0;
+  margin-top: 4.8pt;
+  padding-bottom: 0;
+  margin-bottom: 9.6pt;
+  color: black;
+}
+.block_5 {
+  padding-top: 0;
+  font-family: serif;
+  font-size: 10pt;
+  color: black;
+}
+.block_6 {
+  border-bottom-style: solid;
+  border-bottom-color: #FECB01;
+  border-bottom-width: 1pt;
+  padding-bottom: 0;
+  margin-bottom: 2.25pt;
+  background-color: #FEFFFF;
+  font-family: "Arial", sans-serif;
+  font-size: 15pt;
+}
+.block_7 {
+  padding-top: 0;
+  margin-top: 4.8pt;
+  padding-bottom: 0;
+  margin-bottom: 9.6pt;
+  text-align: center;
+}
+.text_1 {
+  font-weight: bold;
+}
+.text_2 {
+  font-style: italic;
+}
+.text_3 {
+  color: #444;
+}
+.text_4 {
+  color: #315690;
+}
