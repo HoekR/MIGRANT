@@ -24,11 +24,11 @@ _Scientific Committee_:
 _Overall Moderator_:
 - Jason Ensor
 
-Workshop Website: [https://www.lorentzcenter.nl/lc/web/2016/832/info.php3?wsid=832&venue=Snellius](https://www.lorentzcenter.nl/lc/web/2016/832/info.php3?wsid=832&venue=Snellius)
-
-[workshop background document](nias_lorentz.html)
-[scientific report](scientific_report.html)
-[report published on historici.nl](krabbendam_report.html)
+Workshop Website:
+- [https://www.lorentzcenter.nl/lc/web/2016/832/info.php3?wsid=832&venue=Snellius](https://www.lorentzcenter.nl/lc/web/2016/832/info.php3?wsid=832&venue=Snellius)
+- [workshop background document](nias_lorentz.html)
+- [scientific report](scientific_report.html)
+- [report published on historici.nl](krabbendam_report.html)
 
 __2015__
 _Migration, Mobility and Connection.
