@@ -24,8 +24,10 @@ _Scientific Committee_:
 _Overall Moderator_:
 - Jason Ensor
 
-Workshop Website:
+__Workshop Website__
 - [https://www.lorentzcenter.nl/lc/web/2016/832/info.php3?wsid=832&venue=Snellius](https://www.lorentzcenter.nl/lc/web/2016/832/info.php3?wsid=832&venue=Snellius)
+
+__documents__
 - [workshop background document](nias_lorentz.html)
 - [scientific report](scientific_report.html)
 - [report published on historici.nl](krabbendam_report.html)
