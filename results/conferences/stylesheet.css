@@ -1,0 +1,191 @@
+body {
+  font-family: "Arial", sans-serif;
+  font-size: 11pt;
+  color: #000;
+}
+/* In word all paragraphs have zero margins unless explicitly specified in a style */
+p, h1, h2, h3, h4, h5, h6, div {
+  margin: 0;
+  padding: 0;
+}
+/* In word headings only have bold font if explicitly specified */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+}
+/* Setting padding-left to zero breaks rendering of lists, so we only set the other values to zero and leave padding-left for the user-agent */
+ul, ol {
+  margin: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-right: 0;
+}
+/* The word hyperlink styling will set text-decoration to underline if needed */
+a {
+  text-decoration: none;
+}
+sup.noteref a {
+  text-decoration: none;
+}
+h1.notes-header {
+  page-break-before: always;
+}
+dl.footnote dt {
+  font-size: large;
+}
+dl.footnote dt a {
+  text-decoration: none;
+}
+dl.footnote {
+  page-break-after: always;
+}
+dl.footnote:last-of-type {
+  page-break-after: avoid;
+}
+span.tab {
+  white-space: pre;
+}
+p.index-entry {
+  text-indent: 0;
+}
+p.index-entry a:visited {
+  color: blue;
+}
+p.index-entry a:hover {
+  color: red;
+}
+.block_1 {
+  page-break-after: avoid;
+  margin-left: 36pt;
+  padding-top: 0;
+  padding-bottom: 0;
+  line-height: 1.15;
+  font-family: serif;
+  font-size: 10pt;
+  color: black;
+}
+.block_10 {
+  page-break-after: avoid;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.block_11 {
+  padding-bottom: 0;
+  line-height: 1.15;
+  text-align: justify;
+}
+.block_12 {
+  padding-top: 0;
+  padding-bottom: 0;
+  line-height: 1.15;
+  font-family: serif;
+  font-size: 10pt;
+  color: black;
+  text-align: justify;
+}
+.block_13 {
+  padding-top: 0;
+  padding-bottom: 0;
+  line-height: 1.15;
+  font-size: 10pt;
+  text-align: justify;
+}
+.block_14 {
+  padding-top: 0;
+  font-family: serif;
+  font-size: 10pt;
+  color: black;
+}
+.block_2 {
+  page-break-after: avoid;
+  padding-top: 0;
+  padding-bottom: 0;
+  line-height: 1.15;
+}
+.block_3 {
+  page-break-after: avoid;
+  padding-top: 0;
+  padding-bottom: 0;
+  line-height: 1.15;
+  font-family: serif;
+  font-size: 10pt;
+  color: black;
+}
+.block_4 {
+  padding-top: 0;
+  padding-bottom: 0;
+  line-height: 1.15;
+  text-align: justify;
+}
+.block_5 {
+  page-break-after: avoid;
+  padding-top: 0;
+  padding-bottom: 0;
+  line-height: 1.15;
+  text-indent: 36pt;
+  font-family: serif;
+  font-size: 10pt;
+  color: black;
+}
+.block_6 {
+  page-break-after: avoid;
+  padding-top: 0;
+  padding-bottom: 0;
+  font-family: serif;
+  font-size: 10pt;
+  color: black;
+}
+.block_7 {
+  page-break-after: avoid;
+  font-size: 10pt;
+}
+.block_8 {
+  page-break-after: avoid;
+  padding-top: 0;
+  padding-bottom: 0;
+  line-height: 1.15;
+  text-align: justify;
+}
+.block_9 {
+  page-break-after: avoid;
+  margin-left: 18pt;
+  padding-top: 0;
+  padding-bottom: 0;
+  line-height: 1.15;
+  font-family: serif;
+  font-size: 10pt;
+  color: black;
+}
+.bullet_1 {
+  text-decoration: none;
+  font-weight: bold;
+}
+.text_1 {
+  background-color: white;
+}
+.text_2 {
+  font-style: italic;
+}
+.text_3 {
+  font-weight: bold;
+}
+.text_4 {
+  font-size: 11pt;
+}
+.text_5 {
+  font-size: 10pt;
+}
+.text_6 {
+  font-size: 18pt;
+}
+.text_7 {
+  font-style: italic;
+  font-size: 11pt;
+}
+.text_8 {
+  font-size: 11pt;
+  font-weight: bold;
+}
+.text_9 {
+  background-color: white;
+  font-weight: bold;
+}
