@@ -28,11 +28,12 @@ __Workshop Website__
 - [https://www.lorentzcenter.nl/lc/web/2016/832/info.php3?wsid=832&venue=Snellius](https://www.lorentzcenter.nl/lc/web/2016/832/info.php3?wsid=832&venue=Snellius)
 
 __documents__
-- [workshop background document](nias_lorentz.html)
+- [workshop background document](nias_lorentz.md)
 - [scientific report](scientific_report.html)
 - [report published on historici.nl](krabbendam_report.html)
 
 __2015__
+
 _Migration, Mobility and Connection.
 Towards a Sustainable Model for the Preservation of Immigrant Cultural Heritage_
 Workshop Sydney 16-19 February 2015
