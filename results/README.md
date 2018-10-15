@@ -1,4 +1,4 @@
 # results:
-  * [articles](./results/articles)
-  * [conference papers](./results/conferences)
-  * [valorization](./results/valorization)
+  * [articles](./articles)
+  * [conference papers](./conferences)
+  * [valorization](./valorization)
